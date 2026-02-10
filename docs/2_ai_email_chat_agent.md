@@ -49,7 +49,9 @@ Your workflow should look like this:
 
 A mail should have reached the recipient mail like this:
 
-<img width="1920" height="1032" alt="Here&#39;s the information - sanjaynewbie2@gmail com - Gmail - Google Chrome 22-11-2025 11_11_06" src="https://github.com/user-attachments/assets/97d6c598-82e3-4595-acb6-37af2c2e77af" />
+
+<img width="1920" height="1032" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/add1abfd-f796-4234-8d41-20788c2018fd" />
+
 
 ---
 
