@@ -43,7 +43,8 @@ Your workflow should look like this:
 # 4. Output Screenshot
 The mail should have reached your inbox and it should look like this:
 
-<img width="1920" height="992" alt="Manual Trigger - sanjaynewbie2@gmail com - Gmail - Google Chrome 22-11-2025 10_12_39" src="https://github.com/user-attachments/assets/26faa912-6c38-4d05-9091-21ba62d574b2" />
+
+<img width="2160" height="570" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/6858c51f-f8f1-4c85-b477-bc24f114e04f" />
 
 
 ---
